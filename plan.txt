@@ -1,0 +1,15 @@
+Here is the comprehensive plan for running through the program:
+
+### Plan:
+1. **Start the CLI Program**: Execute the `cli.py` script to initiate the command-line interface.
+2. **Test Each Functionality**:
+   - **Create Client**: Select the option to create a client and input the required details (name, age, address).
+   - **Create Product**: Select the option to create a product and input the required details (name, price).
+   - **Create Order**: Select the option to create an order and input the required details (client ID, product ID, quantity, total).
+   - **Get Clients**: Select the option to retrieve and display all clients.
+   - **Get Products**: Select the option to retrieve and display all products.
+   - **Get Orders**: Select the option to retrieve and display all orders.
+   - **Get Client Orders**: Select the option to retrieve and display orders for a specific client by entering their client ID.
+   - **Exit**: Select the exit option to terminate the program.
+
+3. **Verify Outputs**: Ensure that the outputs for each operation are as expected and that the database (`Super.db`) reflects the changes made during the tests.
